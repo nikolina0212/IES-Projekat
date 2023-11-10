@@ -1,0 +1,136 @@
+26/04/2023 21:24:12 : Getting all gids method started.
+26/04/2023 21:24:14 : Getting all gids method successfully finished.
+26/04/2023 21:24:26 : Getting values method started.
+26/04/2023 21:24:26 : Getting values method successfully finished.
+26/04/2023 21:24:48 : Getting values method started.
+26/04/2023 21:24:48 : Getting values method successfully finished.
+26/04/2023 21:24:53 : Getting all gids method started.
+26/04/2023 21:24:53 : Getting all gids method successfully finished.
+26/04/2023 21:25:01 : Getting related values method started.
+26/04/2023 21:25:01 : Getting related values method successfully finished.
+26/04/2023 21:47:43 : Getting all gids method started.
+26/04/2023 21:47:44 : Getting all gids method successfully finished.
+26/04/2023 21:50:28 : Getting values method started.
+26/04/2023 21:50:28 : Getting values method successfully finished.
+26/04/2023 21:50:48 : Getting values method started.
+26/04/2023 21:50:48 : Getting values method successfully finished.
+26/04/2023 21:52:32 : Getting values method started.
+26/04/2023 21:52:33 : Getting values method successfully finished.
+26/04/2023 21:53:23 : Getting values method started.
+26/04/2023 21:53:23 : Getting values method successfully finished.
+26/04/2023 21:53:57 : Getting values method started.
+26/04/2023 21:53:57 : Getting values method successfully finished.
+26/04/2023 21:54:11 : Getting values method started.
+26/04/2023 21:54:11 : Getting values method successfully finished.
+26/04/2023 21:54:20 : Getting all gids method started.
+26/04/2023 21:54:20 : Getting all gids method successfully finished.
+26/04/2023 21:58:05 : Getting extent values method started.
+26/04/2023 21:58:05 : Getting extent values method successfully finished.
+26/04/2023 21:58:43 : Getting all gids method started.
+26/04/2023 21:58:43 : Getting all gids method successfully finished.
+14/05/2023 20:22:48 : Getting all gids method started.
+14/05/2023 20:22:49 : Getting all gids method successfully finished.
+14/05/2023 20:22:54 : Getting values method started.
+14/05/2023 20:22:54 : Getting values method successfully finished.
+14/05/2023 20:23:24 : Getting values method started.
+14/05/2023 20:23:24 : Getting values method successfully finished.
+16/05/2023 11:44:41 : Getting all gids method started.
+16/05/2023 11:44:43 : Getting all gids method successfully finished.
+16/05/2023 11:46:38 : Getting all gids method started.
+16/05/2023 11:46:39 : Getting all gids method successfully finished.
+16/05/2023 11:48:11 : Getting values method started.
+16/05/2023 11:48:11 : Getting values method successfully finished.
+16/05/2023 11:48:26 : Getting values method started.
+16/05/2023 11:48:26 : Getting values method successfully finished.
+16/05/2023 11:48:46 : Getting values method started.
+16/05/2023 11:48:46 : Getting values method successfully finished.
+16/05/2023 11:49:16 : Getting values method started.
+16/05/2023 11:49:16 : Getting values method successfully finished.
+16/05/2023 11:49:42 : Getting all gids method started.
+16/05/2023 11:49:42 : Getting all gids method successfully finished.
+16/05/2023 11:52:58 : Getting related values method started.
+16/05/2023 11:52:58 : Getting related values method successfully finished.
+16/05/2023 11:53:00 : Getting related values method started.
+16/05/2023 11:53:00 : Getting related values method  failed for sourceGlobalId = 12884901889 and association. Reason: The process cannot access the file 'C:\Users\user\Desktop\grafika\Projekat IES\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\Client\bin\Results\GetRelatedValues_Results.xml' because it is being used by another process.
+16/05/2023 11:53:05 : Getting related values method started.
+16/05/2023 11:53:05 : Getting related values method successfully finished.
+16/05/2023 11:53:11 : Getting related values method started.
+16/05/2023 11:53:11 : Getting related values method successfully finished.
+16/05/2023 11:53:32 : Getting extent values method started.
+16/05/2023 11:53:32 : Getting extent values method successfully finished.
+16/05/2023 11:53:41 : Getting extent values method started.
+16/05/2023 11:53:41 : Getting extent values method successfully finished.
+16/05/2023 11:53:51 : Getting extent values method started.
+16/05/2023 11:53:51 : Getting extent values method successfully finished.
+16/05/2023 11:54:16 : Getting all gids method started.
+16/05/2023 11:54:16 : Getting all gids method successfully finished.
+16/05/2023 11:54:32 : Getting related values method started.
+16/05/2023 11:54:32 : Getting related values method successfully finished.
+16/05/2023 11:55:01 : Getting related values method started.
+16/05/2023 11:55:01 : Getting related values method successfully finished.
+16/05/2023 11:55:04 : Getting related values method started.
+16/05/2023 11:55:04 : Getting related values method successfully finished.
+16/05/2023 11:55:13 : Getting related values method started.
+16/05/2023 11:55:13 : Getting related values method successfully finished.
+16/05/2023 11:55:15 : Getting related values method started.
+16/05/2023 11:55:15 : Getting related values method  failed for sourceGlobalId = 17179869185 and association. Reason: The process cannot access the file 'C:\Users\user\Desktop\grafika\Projekat IES\ModelLabsProjekat\ModelLabsProjekat\ModelLabs\Client\bin\Results\GetRelatedValues_Results.xml' because it is being used by another process.
+18/05/2023 12:48:41 : Getting all gids method started.
+18/05/2023 12:48:43 : Getting all gids method successfully finished.
+18/05/2023 12:49:52 : Getting values method started.
+18/05/2023 12:49:52 : Getting values method successfully finished.
+18/05/2023 12:50:05 : Getting values method started.
+18/05/2023 12:50:05 : Getting values method successfully finished.
+18/05/2023 12:50:24 : Getting all gids method started.
+18/05/2023 12:50:25 : Getting all gids method successfully finished.
+18/05/2023 12:51:23 : Getting related values method started.
+18/05/2023 12:51:23 : Getting related values method successfully finished.
+18/05/2023 12:51:31 : Getting related values method started.
+18/05/2023 12:51:31 : Getting related values method successfully finished.
+18/05/2023 12:53:55 : Getting related values method started.
+18/05/2023 12:53:55 : Getting related values method successfully finished.
+18/05/2023 13:02:19 : Getting extent values method started.
+18/05/2023 13:02:20 : Getting extent values method successfully finished.
+18/05/2023 13:02:54 : Getting extent values method started.
+18/05/2023 13:02:54 : Getting extent values method successfully finished.
+18/05/2023 13:15:18 : Getting all gids method started.
+18/05/2023 13:15:21 : Getting all gids failed.
+	Could not connect to net.tcp://localhost:10000/NetworkModelService/GDA/. The connection attempt lasted for a time span of 00:00:02.0221127. TCP error code 10061: No connection could be made because the target machine actively refused it 127.0.0.1:10000. 
+18/05/2023 13:27:20 : Getting all gids method started.
+18/05/2023 13:27:22 : Getting all gids method successfully finished.
+18/05/2023 13:27:39 : Getting values method started.
+18/05/2023 13:27:39 : Getting values method successfully finished.
+18/05/2023 13:27:51 : Getting extent values method started.
+18/05/2023 13:27:51 : Getting extent values method successfully finished.
+18/05/2023 13:28:00 : Getting all gids method started.
+18/05/2023 13:28:00 : Getting all gids method successfully finished.
+18/05/2023 13:28:17 : Getting related values method started.
+18/05/2023 13:28:17 : Getting related values method successfully finished.
+20/05/2023 21:14:37 : Getting all gids method started.
+20/05/2023 21:14:38 : Getting all gids method successfully finished.
+20/05/2023 21:14:44 : Getting values method started.
+20/05/2023 21:14:44 : Getting values method successfully finished.
+20/05/2023 21:14:53 : Getting values method started.
+20/05/2023 21:14:53 : Getting values method successfully finished.
+20/05/2023 21:14:55 : Getting all gids method started.
+20/05/2023 21:14:56 : Getting all gids method successfully finished.
+20/05/2023 21:15:17 : Getting related values method started.
+20/05/2023 21:15:17 : Getting related values method successfully finished.
+21/05/2023 20:14:15 : Getting all gids method started.
+21/05/2023 20:14:19 : Getting all gids method successfully finished.
+21/05/2023 20:14:25 : Getting values method started.
+21/05/2023 20:14:25 : Getting values method successfully finished.
+21/05/2023 20:14:38 : Getting values method started.
+21/05/2023 20:14:38 : Getting values method successfully finished.
+21/05/2023 20:14:42 : Getting values method started.
+21/05/2023 20:14:42 : Getting values method successfully finished.
+21/05/2023 20:14:46 : Getting values method started.
+21/05/2023 20:14:46 : Getting values method successfully finished.
+21/05/2023 20:14:53 : Getting all gids method started.
+21/05/2023 20:14:53 : Getting all gids method successfully finished.
+21/05/2023 20:15:53 : Getting related values method started.
+21/05/2023 20:16:46 : Getting all gids method started.
+21/05/2023 20:16:47 : Getting all gids method successfully finished.
+21/05/2023 20:17:05 : Getting related values method started.
+21/05/2023 20:17:05 : Getting related values method successfully finished.
+21/05/2023 20:17:25 : Getting related values method started.
+21/05/2023 20:17:25 : Getting related values method successfully finished.

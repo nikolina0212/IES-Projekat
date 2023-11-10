@@ -1,0 +1,136 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="10">
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="PAM" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="PAM_01" />
+            <Property id="IDOBJ_NAME" value="pam1" />
+            <Property id="IDOBJ_ALIASNAME" value="PAM" />
+            <Property id="PAM_CSK" value="experimental" />
+            <Property id="PAM_MODELNUM" value="pam1" />
+            <Property id="PAM_MODELVER" value="bjdhdd" />
+            <Property id="PAM_USAGE" value="customerSubstation" />
+            <Property id="PAM_WEIGHT" value="23" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffe" type="PAM" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="PAM_02" />
+            <Property id="IDOBJ_NAME" value="pam2" />
+            <Property id="IDOBJ_ALIASNAME" value="PAM" />
+            <Property id="PAM_CSK" value="experimental" />
+            <Property id="PAM_MODELNUM" value="pam1" />
+            <Property id="PAM_MODELVER" value="bjdhdd" />
+            <Property id="PAM_USAGE" value="customerSubstation" />
+            <Property id="PAM_WEIGHT" value="23" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="ASSETINFO" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="AI_01" />
+            <Property id="IDOBJ_NAME" value="ai1" />
+            <Property id="IDOBJ_ALIASNAME" value="AI" />
+            <Property id="ASSETINFO_ASSETMODEL" value="0x00000006ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="ASSETINFO" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="AI_02" />
+            <Property id="IDOBJ_NAME" value="ai2" />
+            <Property id="IDOBJ_ALIASNAME" value="AI" />
+            <Property id="ASSETINFO_ASSETMODEL" value="0x00000006fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffd" type="ASSETINFO" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="AI_03" />
+            <Property id="IDOBJ_NAME" value="ai3" />
+            <Property id="IDOBJ_ALIASNAME" value="AI" />
+            <Property id="ASSETINFO_ASSETMODEL" value="0x00000006ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="ASSETOWNER" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="AO_01" />
+            <Property id="IDOBJ_NAME" value="ao1" />
+            <Property id="IDOBJ_ALIASNAME" value="AO" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="ASSETCONTAINER" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="AC_01" />
+            <Property id="IDOBJ_NAME" value="ac1" />
+            <Property id="IDOBJ_ALIASNAME" value="AC" />
+            <Property id="ASSET_CRITICAL" value="1" />
+            <Property id="ASSET_INITCON" value="ic1" />
+            <Property id="ASSET_INITLOSSLIFE" value="12" />
+            <Property id="ASSET_PURPRICE" value="33" />
+            <Property id="ASSET_SERIALNUM" value="sn1" />
+            <Property id="ASSET_TYPE" value="accc" />
+            <Property id="ASSET_UTCNUM" value="un1" />
+            <Property id="ASSET_LOTNUM" value="ln1" />
+            <Property id="ASSET_ASSETINFO" value="0x00000001ffffffff" />
+            <Property id="ASSET_ASSETORGROLE" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="COMMEDIA" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CM_01" />
+            <Property id="IDOBJ_NAME" value="cm1" />
+            <Property id="IDOBJ_ALIASNAME" value="CM" />
+            <Property id="ASSET_CRITICAL" value="1" />
+            <Property id="ASSET_INITCON" value="ic1" />
+            <Property id="ASSET_INITLOSSLIFE" value="12" />
+            <Property id="ASSET_PURPRICE" value="33" />
+            <Property id="ASSET_SERIALNUM" value="sn1" />
+            <Property id="ASSET_TYPE" value="accc" />
+            <Property id="ASSET_UTCNUM" value="un1" />
+            <Property id="ASSET_LOTNUM" value="ln1" />
+            <Property id="ASSET_ASSETINFO" value="0x00000001ffffffff" />
+            <Property id="ASSET_ASSETORGROLE" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="COMMEDIA" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CM_02" />
+            <Property id="IDOBJ_NAME" value="cm2" />
+            <Property id="IDOBJ_ALIASNAME" value="CM" />
+            <Property id="ASSET_CRITICAL" value="1" />
+            <Property id="ASSET_INITCON" value="ic1" />
+            <Property id="ASSET_INITLOSSLIFE" value="12" />
+            <Property id="ASSET_PURPRICE" value="33" />
+            <Property id="ASSET_SERIALNUM" value="sn1" />
+            <Property id="ASSET_TYPE" value="accc" />
+            <Property id="ASSET_UTCNUM" value="un1" />
+            <Property id="ASSET_LOTNUM" value="ln1" />
+            <Property id="ASSET_ASSETINFO" value="0x00000001ffffffff" />
+            <Property id="ASSET_ASSETORGROLE" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="SEAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="S_01" />
+            <Property id="IDOBJ_NAME" value="s1" />
+            <Property id="IDOBJ_ALIASNAME" value="S" />
+            <Property id="SEAL_APDT" value="637765920000000000" />
+            <Property id="SEAL_NUM" value="sn1" />
+            <Property id="SEAL_CON" value="broken" />
+            <Property id="SEAL_KIND" value="lead" />
+            <Property id="SEAL_ASSETCONTAINER" value="0x00000003ffffffff" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>
